@@ -5,3 +5,6 @@ Recognize food with Python, Google vision, OpenCV
 - Python 3
 - GCP account (To use google vision)
 - OpenCV (To scale image only)
+
+pip install --upgrade google-cloud-vision
+pip install --upgrade opencv-python
