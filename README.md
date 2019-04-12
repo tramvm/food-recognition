@@ -7,4 +7,5 @@ Recognize food with Python, Google vision, OpenCV
 - OpenCV (To scale image only)
 # Libs
 pip install --upgrade google-cloud-vision
+
 pip install --upgrade opencv-python
